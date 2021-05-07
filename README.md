@@ -1,4 +1,4 @@
-[![Docker Repository on Quay](https://quay.io/repository/infrid/ac3es-tools/status "Docker Repository on Quay")](https://quay.io/repository/infrid/ac3es-tools)
+[![Docker Repository on Quay](https://quay.io/repository/infrid/ac3es-tools/status "Docker Repository on Quay")](https://quay.io/repository/infrid/ac3es-tools) [![Testing](https://github.com/Infrid/ac3es-tools/actions/workflows/tests.yml/badge.svg)](https://github.com/Infrid/ac3es-tools/actions/workflows/tests.yml) [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
 # AC3ES Tools
 
